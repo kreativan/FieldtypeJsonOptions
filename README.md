@@ -1,0 +1,2 @@
+# FieldtypeJsonOptions
+ProcessWire FieldtypeJsonOptions
